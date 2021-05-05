@@ -40,8 +40,9 @@
     "node-sass": "^4.13.1",
     "object-path": "^0.11.5",
     "socket.io": "^2.4.0",
+    "xmlhttprequest-ssl": "^1.6.2",
     "y18n": "^3.2.2",
-    "yargs-parser": "^5.0.0-security.0"
+    "yargs-parser": "^5.0.0"
   },
   "devDependencies": {
     "axios": "^0.21.1",
