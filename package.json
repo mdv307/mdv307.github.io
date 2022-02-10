@@ -37,7 +37,7 @@
     "jquery.easing": "^1.4.1",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.19",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "object-path": "^0.11.5",
     "socket.io": "^2.4.0",
     "xmlhttprequest-ssl": "^1.6.2",
